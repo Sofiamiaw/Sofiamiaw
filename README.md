@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sofiamiaw
 - 👀 I’m interested in data science, finance, marketing and market research 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on market research and data mining
 - 📫 You can reach me through email: scavieres@hanyang.ac.kr
 
 <!---
